@@ -2,8 +2,6 @@
 
 This is the repository for the implementation of Decision Curve Analysis in Python 3. The function in this repository evaluates the clinical value of predictive models for a binary classification problem. Decision curve analysis identifies the range of threshold probabilities in which a model is of clinical value, the magnitude of benefit, and which of several models is optimal [[1]](#1).
 
-If you use this code in your work, then please cite our paper [link].
-
 ## Instructions
 
 ### Installation
